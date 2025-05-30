@@ -1,0 +1,330 @@
+{
+  "project_info": {
+    "project_number": "1027876483657",
+    "firebase_url": "https://idz-games.firebaseio.com",
+    "project_id": "idz-games",
+    "storage_bucket": "idz-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:144c427a6ca2a55d2b0598",
+        "android_client_info": {
+          "package_name": "com.idz.snakes.and.ladders.dice.board.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:901de136c6ba394b2b0598",
+        "android_client_info": {
+          "package_name": "com.internetdesignzone.animedressup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:a863c437fa62db052b0598",
+        "android_client_info": {
+          "package_name": "com.internetdesignzone.dressupkissing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:264e41a8183aa0e72b0598",
+        "android_client_info": {
+          "package_name": "com.iz.bible.crossword.puzzle.word.games.verses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:351c0aefd5dddd302b0598",
+        "android_client_info": {
+          "package_name": "com.iz.bible.word.puzzle.games.connect.collect.verses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:098b5f3e8be74ba92b0598",
+        "android_client_info": {
+          "package_name": "com.iz.bible.word.search.puzzle.games.verses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:e3798d2f64252b2d2b0598",
+        "android_client_info": {
+          "package_name": "com.iz.classic.family.board.games.all.in.one.offline.table.travel.fun.two.four.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:ffa65581eb84c0142b0598",
+        "android_client_info": {
+          "package_name": "com.iz.ludo.saga.king.star.dice.board.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:15fc8872e9435d622b0598",
+        "android_client_info": {
+          "package_name": "com.iz.snakes.ladders.multiplayer.dice.board.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:f08e5c68d6f895102b0598",
+        "android_client_info": {
+          "package_name": "com.test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027876483657:android:3591d59de72904b52b0598",
+        "android_client_info": {
+          "package_name": "iz.word.quotes.games.famous.life.inspirational.motivational.offline.connect.puzzle.wordgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZrAANA9E2IKmkzDrhKwx3Zk7u4qPY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027876483657-b48at9e6qe592hceaph0mnjt5ailfhs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
